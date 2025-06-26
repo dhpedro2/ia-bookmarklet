@@ -7,7 +7,7 @@
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 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"
+        "Authorization": "Bearer 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"
       },
       body: JSON.stringify({
         model: "gpt-4o", // ou outro modelo suportado
